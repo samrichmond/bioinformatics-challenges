@@ -4,7 +4,7 @@ with open('problem_input.txt') as f:
     k = int(k_str)
 #n, k = map(int, f.readline().split()) an alternative code that I want to remember
 
-#Fn = Fn-1 + Fn-2
+#Fn = Fn-1 + Fn-2 given in problem
 #n = months
 #k = pairs of offspring
 #1 pair to start, each newborn pair takes 1 month to reach reproduction age and then 1 month to grow the babies, 
